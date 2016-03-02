@@ -43,7 +43,7 @@
   <project path="build" name="c6aosprb/build" remote="github" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="packages/apps/Settings" name="c6aospb/packages_apps_Settings" remote="github" />
+  <project path="packages/apps/Settings" name="c6aosprb/packages_apps_Settings" remote="github" />
   <project path="frameworks/base" name="c6aosprb/frameworks_base" remote="github" />
   <project path="candy" name="c6aosprb/candy" remote="github" />
   <project path="system/core" name="c6aosprb/system_core" remote="github" />
