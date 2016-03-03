@@ -43,7 +43,9 @@
   <project path="build" name="c6aosprb/build" remote="github" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  <project path="packages/apps/Camera2" name="c6aosprb/packages_apps_Camera2" remote="github" />
   <project path="packages/apps/Settings" name="c6aosprb/packages_apps_Settings" remote="github" />
+  <project path="packages/apps/Snap" name="c6aosprb/packages_apps_Snap" remote="github" />
   <project path="frameworks/av" name="c6aosprb/frameworks_av" remote="github" />
   <project path="frameworks/base" name="c6aosprb/frameworks_base" remote="github" />
   <project path="candy" name="c6aosprb/candy" remote="github" />
@@ -52,7 +54,6 @@
   
   <!-- CM Projects -->
   <project path="external/mm-dash" name="android_external_mm-dash" remote="cm" revision="cm-13.0" />
-  <project path="packages/apps/Snap" name="android_packages_apps_Snap" remote="cm" revision="cm-13.0" />
   
   <!-- Slim Projects -->
   <project path="packages/apps/FloatingActionButton" name="SlimSaber/android-floating-action-button" remote="github" revision="lp5.1" />
@@ -126,7 +127,6 @@
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="aospb" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="aospb" />
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" remote="aospb" />
-  <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="aospb" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="aospb" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="aospb" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="aospb" />
