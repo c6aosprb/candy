@@ -48,6 +48,7 @@
   <project path="packages/apps/Snap" name="c6aosprb/packages_apps_Snap" remote="github" />
   <project path="frameworks/av" name="c6aosprb/frameworks_av" remote="github" />
   <project path="frameworks/base" name="c6aosprb/frameworks_base" remote="github" />
+  <project path="frameworks/native" name="c6aosprb/frameworks_native" remote="github" />
   <project path="candy" name="c6aosprb/candy" remote="github" />
   <project path="system/core" name="c6aosprb/system_core" remote="github" />
   <project path="vendor/candy" name="c6aosprb/vendor_candy" remote="github" />
@@ -84,7 +85,6 @@
   <project path="external/tinyalsa" name="external_tinyalsa" remote="aospb" />
   <project path="external/tinycompress" name="external_tinycompress" remote="aospb" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="aospb" />
-  <project path="frameworks/native" name="frameworks_native" remote="aospb" />
   <project path="frameworks/opt/bluetooth" name="frameworks_opt_bluetooth" remote="aospb" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="aospb" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="aospb" />
