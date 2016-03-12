@@ -78,6 +78,7 @@
   <project path="device/qcom/common" name="device_qcom_common" remote="aospb" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="aospb" />
   <project path="external/android-visualizer" name="external_android-visualizer" remote="aospb" />
+  <project path="external/ant-wireless/ant_service" name="external_ant-wireless_ant_service" remote="aospb" />
   <project path="external/ant-wireless/ant_native" name="external_ant-wireless_ant_native" remote="aospb" />
   <project path="external/ant-wireless/antradio-library" name="external_ant-wireless_antradio-library" remote="aospb" />
   <project path="external/busybox" name="external_busybox" remote="aospb" />
@@ -171,7 +172,6 @@
   <project path="external/android-mock" name="platform/external/android-mock" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/androidplot" name="platform/external/androidplot" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/ant-glob" name="platform/external/ant-glob" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/ant-wireless/ant_service" name="platform/external/ant-wireless/ant_service" remote="aosp" />
   <project path="external/antlr" name="platform/external/antlr" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/apache-commons-math" name="platform/external/apache-commons-math" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -476,7 +476,7 @@
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" remote="aosp" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" remote="aosp" />
   <project path="packages/services/Mms" name="platform/packages/services/Mms" remote="aosp" />
-  <project path="packages/services/Telecomm" name="platform/packages_services_Telecomm" remote="aosp" />
+  <project path="packages/services/Telecomm" name="platform/packages/services/Telecomm" remote="aosp" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" groups="pdk-fs" remote="aosp" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" groups="pdk-fs" remote="aosp" />
