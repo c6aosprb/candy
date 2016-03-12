@@ -52,6 +52,7 @@
   <project path="frameworks/base" name="c6aosprb/frameworks_base" remote="github" />
   <project path="frameworks/native" name="c6aosprb/frameworks_native" remote="github" />
   <project path="frameworks/opt/bluetooth" name="CandyRoms/frameworks_opt_bluetooth" groups="pdk-cw-fs,pdk-fs" remote="github" revision="c6" />
+  <project path="frameworks/opt/telephony" name="c6aosprb/frameworks_opt_telephony" remote="github" />
   <project path="hardware/broadcom/libbt" name="CandyRoms/hardware_broadcom_libbt" groups="pdk" remote="github" revision="c6" />
   <project path="system/bt" name="CandyRoms/system_bt" groups="pdk" remote="github" revision="c6" />
   <project path="system/core" name="c6aosprb/system_core" remote="github" />
@@ -96,7 +97,6 @@
   <project path="external/tinyalsa" name="external_tinyalsa" remote="aospb" />
   <project path="external/tinycompress" name="external_tinycompress" remote="aospb" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="aospb" />
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="aospb" />
   <project path="hardware/broadcom/wlan" name="hardware_broadcom_wlan" remote="aospb" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="aospb" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="aospb" />
