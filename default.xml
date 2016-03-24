@@ -47,6 +47,7 @@
   <project path="packages/apps/Bluetooth" name="CandyRoms/packages_apps_Bluetooth" groups="pdk-cw-fs" remote="github" revision="c6" />
   <project path="packages/apps/KernelAdiutor" name="CandyDevices/packages_apps_KernelAdiutor" remote="github" revision="candy" />
   <project path="packages/apps/LockClock" name="CandyRoms/packages_apps_LockClock" remote="github" revision="c6" />
+  <project path="packages/apps/Nfc" name="c6aosprb/packages_apps_Nfc" remote="github" groups="apps_nfc,pdk-fs" />
   <project path="packages/apps/Settings" name="c6aosprb/packages_apps_Settings" remote="github" />
   <project path="frameworks/av" name="c6aosprb/frameworks_av" remote="github" />
   <project path="frameworks/base" name="c6aosprb/frameworks_base" remote="github" />
@@ -139,7 +140,6 @@
   <project path="vendor/qcom/opensource/dpm" name="vendor_qcom_opensource_dpm" remote="aospb" />
   <project path="prebuilt" name="prebuilt" remote="aospb" />
   <project path="packages/apps/SamsungServiceMode" name="packages_apps_SamsungServiceMode" remote="aospb" />
-  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="aospb" groups="apps_nfc,pdk-fs" />
   <project path="external/qrngd" name="external_qrngd" remote="aospb" />
   <project path="external/ffmpeg" name="external_ffmpeg" remote="aospb" />
   <project path="external/stagefright-plugins" name="external_stagefright-plugins" remote="aospb" />
